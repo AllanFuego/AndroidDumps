@@ -1,0 +1,492 @@
+path="acct" type=dir mode=0755 uid=0 gid=0
+path="apex" type=dir mode=0755 uid=0 gid=0
+path="audit_filter_table" type=file mode=0644 uid=0 gid=0
+path="bin" type=symlink mode=0644 uid=0 gid=0 target="/system/bin"
+path="bootstrap-apex" type=dir mode=0755 uid=0 gid=0
+path="bugreports" type=symlink mode=0644 uid=0 gid=0 target="/data/user_de/0/com.android.shell/files/bugreports"
+path="config" type=dir mode=0555 uid=0 gid=0
+path="d" type=symlink mode=0644 uid=0 gid=0 target="/sys/kernel/debug"
+path="data" type=dir mode=0771 uid=0 gid=0
+path="data_mirror" type=dir mode=0755 uid=0 gid=0
+path="debug_ramdisk" type=dir mode=0755 uid=0 gid=0
+path="default.prop" type=symlink mode=0600 uid=0 gid=0 target="prop.default"
+path="dev" type=dir mode=0755 uid=0 gid=0
+path="dpolicy" type=file mode=0644 uid=0 gid=0
+path="efs" type=dir mode=0755 uid=0 gid=0
+path="etc" type=symlink mode=0644 uid=0 gid=0 target="/system/etc"
+path="init" type=symlink mode=0750 uid=0 gid=0 target="/system/bin/init"
+path="init.recovery.qcom.rc" type=file mode=0750 uid=0 gid=0
+path="init.recovery.samsung.rc" type=file mode=0750 uid=0 gid=0
+path="linkerconfig" type=dir mode=0755 uid=0 gid=0
+path="linkerconfig/ld.config.txt" type=file mode=0644 uid=0 gid=0
+path="metadata" type=dir mode=0755 uid=0 gid=0
+path="mnt" type=dir mode=0755 uid=0 gid=0
+path="odm" type=dir mode=0755 uid=0 gid=0
+path="odm/app" type=symlink mode=0644 uid=0 gid=0 target="/vendor/odm/app"
+path="odm/bin" type=symlink mode=0644 uid=0 gid=0 target="/vendor/odm/bin"
+path="odm/etc" type=symlink mode=0644 uid=0 gid=0 target="/vendor/odm/etc"
+path="odm/firmware" type=symlink mode=0644 uid=0 gid=0 target="/vendor/odm/firmware"
+path="odm/framework" type=symlink mode=0644 uid=0 gid=0 target="/vendor/odm/framework"
+path="odm/lib" type=symlink mode=0644 uid=0 gid=0 target="/vendor/odm/lib"
+path="odm/lib64" type=symlink mode=0644 uid=0 gid=0 target="/vendor/odm/lib64"
+path="odm/overlay" type=symlink mode=0644 uid=0 gid=0 target="/vendor/odm/overlay"
+path="odm/priv-app" type=symlink mode=0644 uid=0 gid=0 target="/vendor/odm/priv-app"
+path="odm/usr" type=symlink mode=0644 uid=0 gid=0 target="/vendor/odm/usr"
+path="odm_dlkm" type=dir mode=0755 uid=0 gid=0
+path="odm_dlkm/etc" type=symlink mode=0644 uid=0 gid=0 target="/odm/odm_dlkm/etc"
+path="odm_file_contexts" type=file mode=0644 uid=0 gid=0
+path="odm_property_contexts" type=file mode=0644 uid=0 gid=0
+path="oem" type=dir mode=0755 uid=0 gid=0
+path="optics" type=dir mode=0755 uid=0 gid=0
+path="plat_file_contexts" type=file mode=0644 uid=0 gid=0
+path="plat_property_contexts" type=file mode=0644 uid=0 gid=0
+path="plat_service_contexts" type=file mode=0644 uid=0 gid=0
+path="postinstall" type=dir mode=0755 uid=0 gid=0
+path="prism" type=dir mode=0755 uid=0 gid=0
+path="proc" type=dir mode=0755 uid=0 gid=0
+path="product" type=symlink mode=0644 uid=0 gid=0 target="/system/product"
+path="product_file_contexts" type=file mode=0644 uid=0 gid=0
+path="product_property_contexts" type=file mode=0644 uid=0 gid=0
+path="product_service_contexts" type=file mode=0644 uid=0 gid=0
+path="prop.default" type=file mode=0644 uid=0 gid=0
+path="res" type=dir mode=0755 uid=0 gid=0
+path="res/images" type=dir mode=0755 uid=0 gid=0
+path="res/images/cancel_wipe_data_text.png" type=file mode=0644 uid=0 gid=0
+path="res/images/erasing_text.png" type=file mode=0644 uid=0 gid=0
+path="res/images/error_text.png" type=file mode=0644 uid=0 gid=0
+path="res/images/factory_data_reset_text.png" type=file mode=0644 uid=0 gid=0
+path="res/images/fastbootd.png" type=file mode=0644 uid=0 gid=0
+path="res/images/font.png" type=file mode=0644 uid=0 gid=0
+path="res/images/font_percentage.png" type=file mode=0644 uid=0 gid=0
+path="res/images/icon_error.png" type=file mode=0644 uid=0 gid=0
+path="res/images/installing_security_text.png" type=file mode=0644 uid=0 gid=0
+path="res/images/installing_text.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00000.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00001.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00002.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00003.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00004.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00005.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00006.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00007.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00008.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00009.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00010.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00011.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00012.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00013.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00014.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00015.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00016.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00017.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00018.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00019.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00020.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00021.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00022.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00023.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00024.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00025.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00026.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00027.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00028.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00029.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00030.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00031.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00032.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00033.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00034.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00035.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00036.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00037.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00038.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00039.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00040.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00041.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00042.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00043.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00044.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00045.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00046.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00047.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00048.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00049.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00050.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00051.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00052.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00053.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00054.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00055.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00056.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00057.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00058.png" type=file mode=0644 uid=0 gid=0
+path="res/images/loop00059.png" type=file mode=0644 uid=0 gid=0
+path="res/images/no_command_text.png" type=file mode=0644 uid=0 gid=0
+path="res/images/progress_empty.png" type=file mode=0644 uid=0 gid=0
+path="res/images/progress_fill.png" type=file mode=0644 uid=0 gid=0
+path="res/images/res_info" type=file mode=0644 uid=0 gid=0
+path="res/images/rescue_menu_back_text.png" type=file mode=0644 uid=0 gid=0
+path="res/images/rescue_menu_cancel_text.png" type=file mode=0644 uid=0 gid=0
+path="res/images/rescue_menu_erase_app_data_text.png" type=file mode=0644 uid=0 gid=0
+path="res/images/rescue_menu_main_header_text.png" type=file mode=0644 uid=0 gid=0
+path="res/images/rescue_menu_power_off_text.png" type=file mode=0644 uid=0 gid=0
+path="res/images/rescue_menu_sub1_header_text.png" type=file mode=0644 uid=0 gid=0
+path="res/images/rescue_menu_try_again_text.png" type=file mode=0644 uid=0 gid=0
+path="res/images/rescue_menu_view_log_full_text.png" type=file mode=0644 uid=0 gid=0
+path="res/images/rescue_menu_view_log_summary_text.png" type=file mode=0644 uid=0 gid=0
+path="res/images/rescue_menu_view_logs_text.png" type=file mode=0644 uid=0 gid=0
+path="res/images/stage_empty.png" type=file mode=0644 uid=0 gid=0
+path="res/images/stage_fill.png" type=file mode=0644 uid=0 gid=0
+path="res/images/try_again_text.png" type=file mode=0644 uid=0 gid=0
+path="res/images/wipe_data_confirmation_text.png" type=file mode=0644 uid=0 gid=0
+path="res/images/wipe_data_sdcard_warning_text.png" type=file mode=0644 uid=0 gid=0
+path="sdcard" type=dir mode=0777 uid=0 gid=0
+path="second_stage_resources" type=dir mode=0755 uid=0 gid=0
+path="sepolicy" type=file mode=0644 uid=0 gid=0
+path="sepolicy_version" type=file mode=0644 uid=0 gid=0
+path="storage" type=dir mode=0751 uid=0 gid=0
+path="sys" type=dir mode=0755 uid=0 gid=0
+path="system" type=dir mode=0755 uid=0 gid=0
+path="system/bin" type=dir mode=0751 uid=0 gid=0
+path="system/bin/[" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/acpi" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/adbd" type=file mode=0755 uid=0 gid=0
+path="system/bin/base64" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/basename" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/blockdev" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/brctl" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/cal" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/cat" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/chattr" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/chcon" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/chgrp" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/chmod" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/chown" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/chroot" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/chrt" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/cksum" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/clear" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/cmp" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/comm" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/cp" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/cpio" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/cut" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/date" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/dd" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/defrag.f2fs" type=symlink mode=0755 uid=0 gid=0 target="fsck.f2fs"
+path="system/bin/devmem" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/df" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/diff" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/dirname" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/dmesg" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/dos2unix" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/dsms" type=file mode=0755 uid=0 gid=0
+path="system/bin/du" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/dump.erofs" type=file mode=0755 uid=0 gid=0
+path="system/bin/dump.f2fs" type=symlink mode=0755 uid=0 gid=0 target="fsck.f2fs"
+path="system/bin/e2fsck" type=file mode=0755 uid=0 gid=0
+path="system/bin/e2fsdroid" type=file mode=0755 uid=0 gid=0
+path="system/bin/echo" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/egrep" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/env" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/expand" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/expr" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/fallocate" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/false" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/fastbootd" type=file mode=0755 uid=0 gid=0
+path="system/bin/fgrep" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/file" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/find" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/flock" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/fmt" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/free" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/fsck.erofs" type=file mode=0755 uid=0 gid=0
+path="system/bin/fsck.f2fs" type=file mode=0755 uid=0 gid=0
+path="system/bin/fsync" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/getconf" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/getenforce" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/getevent" type=symlink mode=0755 uid=0 gid=0 target="toolbox"
+path="system/bin/getfattr" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/getopt" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/getprop" type=symlink mode=0755 uid=0 gid=0 target="toolbox"
+path="system/bin/gpiodetect" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/gpiofind" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/gpioget" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/gpioinfo" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/gpioset" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/grep" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/groups" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/gunzip" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/gzip" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/head" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/hostname" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/hw" type=dir mode=0751 uid=0 gid=0
+path="system/bin/hw/android.hardware.boot-service.qti.recovery" type=file mode=0755 uid=0 gid=0
+path="system/bin/hw/android.hardware.fastboot-service.example_recovery" type=file mode=0755 uid=0 gid=0
+path="system/bin/hw/android.hardware.health-service.qti_recovery" type=file mode=0755 uid=0 gid=0
+path="system/bin/hwclock" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/i2cdetect" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/i2cdump" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/i2cget" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/i2cset" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/i2ctransfer" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/iconv" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/id" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/ifconfig" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/init" type=file mode=0755 uid=0 gid=0
+path="system/bin/inotifyd" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/insmod" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/install" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/ionice" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/iorenice" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/kill" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/killall" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/linker64" type=file mode=0755 uid=0 gid=0
+path="system/bin/linker_asan64" type=symlink mode=0755 uid=0 gid=0 target="linker64"
+path="system/bin/linker_hwasan64" type=symlink mode=0755 uid=0 gid=0 target="linker64"
+path="system/bin/ln" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/load_policy" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/log" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/logger" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/logname" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/losetup" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/ls" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/lsattr" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/lsmod" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/lsof" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/lspci" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/lsusb" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/make_f2fs" type=file mode=0755 uid=0 gid=0
+path="system/bin/md5sum" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/memeater" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/microcom" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/minadbd" type=file mode=0755 uid=0 gid=0
+path="system/bin/mkdir" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/mke2fs" type=file mode=0755 uid=0 gid=0
+path="system/bin/mkfifo" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/mkfs.erofs" type=file mode=0755 uid=0 gid=0
+path="system/bin/mkfs.ext2" type=symlink mode=0755 uid=0 gid=0 target="mke2fs"
+path="system/bin/mkfs.ext3" type=symlink mode=0755 uid=0 gid=0 target="mke2fs"
+path="system/bin/mkfs.ext4" type=symlink mode=0755 uid=0 gid=0 target="mke2fs"
+path="system/bin/mknod" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/mkswap" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/mktemp" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/modinfo" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/modprobe" type=symlink mode=0755 uid=0 gid=0 target="toolbox"
+path="system/bin/more" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/mount" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/mountpoint" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/mv" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/nc" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/netcat" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/netstat" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/nice" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/nl" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/nohup" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/nproc" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/nsenter" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/od" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/paste" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/patch" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/pgrep" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/pidof" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/pkill" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/pmap" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/printenv" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/printf" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/ps" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/pwd" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/readelf" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/readlink" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/realpath" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/reboot" type=file mode=0755 uid=0 gid=0
+path="system/bin/recovery" type=file mode=0755 uid=0 gid=0
+path="system/bin/renice" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/resize.f2fs" type=symlink mode=0755 uid=0 gid=0 target="fsck.f2fs"
+path="system/bin/resize2fs" type=file mode=0755 uid=0 gid=0
+path="system/bin/restorecon" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/rm" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/rmdir" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/rmmod" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/rtcwake" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/runcon" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/sed" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/sendevent" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/seq" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/servicemanager" type=file mode=0755 uid=0 gid=0
+path="system/bin/setenforce" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/setfattr" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/setprop" type=symlink mode=0755 uid=0 gid=0 target="toolbox"
+path="system/bin/setsid" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/sh" type=file mode=0755 uid=0 gid=0
+path="system/bin/sha1sum" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/sha224sum" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/sha256sum" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/sha384sum" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/sha512sum" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/sleep" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/sload_f2fs" type=file mode=0755 uid=0 gid=0
+path="system/bin/sort" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/split" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/start" type=symlink mode=0755 uid=0 gid=0 target="toolbox"
+path="system/bin/stat" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/stop" type=symlink mode=0755 uid=0 gid=0 target="toolbox"
+path="system/bin/strings" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/stty" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/swapoff" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/swapon" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/sync" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/sysctl" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/tac" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/tail" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/tar" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/taskset" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/tee" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/test" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/time" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/timeout" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/toolbox" type=file mode=0755 uid=0 gid=0
+path="system/bin/top" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/touch" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/toybox" type=file mode=0755 uid=0 gid=0
+path="system/bin/tr" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/true" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/truncate" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/tty" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/uclampset" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/ueventd" type=symlink mode=0755 uid=0 gid=0 target="init"
+path="system/bin/ulimit" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/umount" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/uname" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/uniq" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/unix2dos" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/unlink" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/unshare" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/unzip" type=symlink mode=0755 uid=0 gid=0 target="ziptool"
+path="system/bin/update_engine_sideload" type=file mode=0755 uid=0 gid=0
+path="system/bin/uptime" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/usleep" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/uudecode" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/uuencode" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/uuidgen" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/vi" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/vmstat" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/watch" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/watchdogd" type=file mode=0755 uid=0 gid=0
+path="system/bin/wc" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/which" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/whoami" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/xargs" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/xxd" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/yes" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/zcat" type=symlink mode=0755 uid=0 gid=0 target="toybox"
+path="system/bin/zipinfo" type=symlink mode=0755 uid=0 gid=0 target="ziptool"
+path="system/bin/ziptool" type=file mode=0755 uid=0 gid=0
+path="system/etc" type=dir mode=0755 uid=0 gid=0
+path="system/etc/cgroups.json" type=file mode=0644 uid=0 gid=0
+path="system/etc/init" type=dir mode=0755 uid=0 gid=0
+path="system/etc/init/android.hardware.boot-service.qti.recovery.rc" type=file mode=0644 uid=0 gid=0
+path="system/etc/init/android.hardware.fastboot-service.example_recovery.rc" type=file mode=0644 uid=0 gid=0
+path="system/etc/init/android.hardware.health-service.qti_recovery.rc" type=file mode=0644 uid=0 gid=0
+path="system/etc/init/dsms.rc" type=file mode=0644 uid=0 gid=0
+path="system/etc/init/hw" type=dir mode=0755 uid=0 gid=0
+path="system/etc/init/hw/init.rc" type=file mode=0644 uid=0 gid=0
+path="system/etc/init/libdsms.recovery.rc" type=file mode=0644 uid=0 gid=0
+path="system/etc/init/servicemanager.recovery.rc" type=file mode=0644 uid=0 gid=0
+path="system/etc/ld.config.txt" type=file mode=0644 uid=0 gid=0
+path="system/etc/mke2fs.conf" type=file mode=0644 uid=0 gid=0
+path="system/etc/recovery.fstab" type=file mode=0644 uid=0 gid=0
+path="system/etc/security" type=dir mode=0755 uid=0 gid=0
+path="system/etc/security/otacerts.zip" type=file mode=0644 uid=0 gid=0
+path="system/etc/ueventd.rc" type=file mode=0644 uid=0 gid=0
+path="system/etc/vintf" type=dir mode=0755 uid=0 gid=0
+path="system/etc/vintf/manifest" type=dir mode=0755 uid=0 gid=0
+path="system/etc/vintf/manifest/android.hardware.fastboot-service.example.xml" type=file mode=0644 uid=0 gid=0
+path="system/etc/vintf/manifest/android.hardware.health-service.qti.xml" type=file mode=0644 uid=0 gid=0
+path="system/etc/vintf/manifest/boot-service.qti.xml" type=file mode=0644 uid=0 gid=0
+path="system/lib64" type=dir mode=0755 uid=0 gid=0
+path="system/lib64/android.hardware.boot-V1-ndk.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/android.hardware.boot@1.0.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/android.hardware.boot@1.1.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/android.hardware.boot@1.2.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/android.hardware.fastboot-V1-ndk.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/android.hardware.fastboot@1.0.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/android.hardware.fastboot@1.1.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/android.hardware.health-V3-ndk.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/android.hardware.health@1.0.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/android.hardware.health@2.0.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/ld-android.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libadbd_auth.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libadbd_fs.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libasyncio.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libbase.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libbinder.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libbinder_ndk.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libboot_control_client.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libboot_control_qti.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libbootloader_message.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libc++.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libc.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libcgrouprc.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libcrypto.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libcrypto_utils.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libcutils.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libddp.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libdl.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libdsms.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libengmode2lite_recovery.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libext2_blkid.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libext2_com_err.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libext2_e2p.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libext2_misc.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libext2_quota.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libext2_uuid.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libext2fs.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libext4_utils.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libfec.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libfs_mgr.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libfusesideload.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libgsi.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libhidl-gen-utils.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libhidlbase.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libion.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libjsoncpp.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libkeyutils.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/liblog.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/liblogwrap.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/liblp.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/liblz4.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/liblzma.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libm.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libpackagelistparser.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libpcre2.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libpng.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libprocessgroup.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libprocessgroup_setup.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libprotobuf-cpp-lite.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/librecovery_ui.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/librecovery_ui_ext.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/librecovery_updater.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libselinux.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libselinux_ext.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libsparse.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libsquashfs_utils.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libtinyxml2.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libunwindstack.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libutils.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libvendorsupport.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libvintf.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libz.so" type=file mode=0644 uid=0 gid=0
+path="system/lib64/libziparchive.so" type=file mode=0644 uid=0 gid=0
+path="system_dlkm" type=dir mode=0755 uid=0 gid=0
+path="system_ext" type=symlink mode=0644 uid=0 gid=0 target="/system/system_ext"
+path="system_ext_file_contexts" type=file mode=0644 uid=0 gid=0
+path="system_ext_property_contexts" type=file mode=0644 uid=0 gid=0
+path="system_ext_service_contexts" type=file mode=0644 uid=0 gid=0
+path="tmp" type=dir mode=0755 uid=0 gid=0
+path="vendor" type=dir mode=0755 uid=0 gid=0
+path="vendor_dlkm" type=dir mode=0755 uid=0 gid=0
+path="vendor_dlkm/etc" type=symlink mode=0644 uid=0 gid=0 target="/vendor/vendor_dlkm/etc"
+path="vendor_file_contexts" type=file mode=0644 uid=0 gid=0
+path="vendor_property_contexts" type=file mode=0644 uid=0 gid=0
+path="vendor_service_contexts" type=file mode=0644 uid=0 gid=0
